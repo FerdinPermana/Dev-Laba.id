@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HP02</name>
+   <tag></tag>
+   <elementGuidId>cdc32963-993b-4ace-9c1b-09ee5a345302</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss200.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-1232-option-2']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>081e7bf1-7252-4712-9e87-b1131fba4d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss200 w-100</value>
+      <webElementGuid>99447f30-cfdb-4315-853f-99f33e5b3148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HP02</value>
+      <webElementGuid>74358497-674d-45ae-8cf4-ae50fb1df0bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-1232-option-2&quot;)/div[@class=&quot;MuiBox-root jss200 w-100&quot;]</value>
+      <webElementGuid>09e58129-b642-4086-a193-88003188b469</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-1232-option-2']/div</value>
+      <webElementGuid>8d6a219c-5932-49cb-a5f0-225ba62b794f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[1]/following::div[1]</value>
+      <webElementGuid>067f7566-0e3a-4ba3-828a-1be37e426469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Baru'])[1]/following::div[2]</value>
+      <webElementGuid>759a9054-5ab5-425a-9c11-f200548b3667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV Samsung'])[1]/preceding::div[1]</value>
+      <webElementGuid>e6cb42ec-3271-4b32-a50e-02f48fea4c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[3]/div</value>
+      <webElementGuid>73660a61-a917-49c1-b95f-87c7230e8c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HP02' or . = 'HP02')]</value>
+      <webElementGuid>069caa45-2d39-4238-ae70-a9ff372f021a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

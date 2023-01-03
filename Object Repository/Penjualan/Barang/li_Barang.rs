@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Barang</name>
+   <tag></tag>
+   <elementGuidId>69a9a316-7a55-4f45-bc28-41a9e6b84e50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[3]/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>549a181d-cea4-4470-8771-b164905d8184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root lists__item nested pointer MuiListItem-gutters</value>
+      <webElementGuid>3682d7ba-3c35-415b-9170-13ec543a99c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Barang</value>
+      <webElementGuid>c9d0db67-3443-4e5b-b9d6-62e8351436c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiCollapse-container MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root lists__item nested pointer MuiListItem-gutters&quot;]</value>
+      <webElementGuid>990f2941-e424-49d1-9d3e-1fe41d30ed41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[3]/div/div/ul/li[2]</value>
+      <webElementGuid>4408bd22-e7f1-4f9d-99ac-f7d84bb7784c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::li[1]</value>
+      <webElementGuid>0209c6d9-9c85-4928-b480-71efbb6573d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa'])[1]/preceding::li[1]</value>
+      <webElementGuid>d5cd5063-f1cb-4762-8cde-cf1d2bc6e788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/ul/li[2]</value>
+      <webElementGuid>ccd15719-68ff-4fbd-8c87-130b22c6274d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Barang' or . = 'Barang')]</value>
+      <webElementGuid>57ccfea6-a9d5-49b5-aa04-c0406e3a3238</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pendapatan Lainnya</name>
+   <tag></tag>
+   <elementGuidId>2d6a96aa-1ccf-43ea-83db-ba00a987dd33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-87757-option-1']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-87757-option-1 > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0af92ced-144e-4993-b6bf-85e50c2ac8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendapatan Lainnya</value>
+      <webElementGuid>f66de1d1-c01f-42c2-b561-6eb18c7a0d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-87757-option-1&quot;)/span[1]/span[1]</value>
+      <webElementGuid>4230f2e3-a17b-4ae9-a6b3-19b9abd1e2e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-87757-option-1']/span/span</value>
+      <webElementGuid>6cb62d49-b8b6-4850-b359-4fd31585e61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendapatan Bunga'])[1]/following::span[2]</value>
+      <webElementGuid>67cb585b-a65c-460c-b6f0-00d922797fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'mui-87757-option-1', '&quot;', ')/span[1]/span[1]')])[1]/following::span[8]</value>
+      <webElementGuid>8830e659-142d-426f-a798-08dfd185f568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pendapatan Lainnya']/parent::*</value>
+      <webElementGuid>af0c8ac9-dfa6-40a6-9a6c-9c5480cd0819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/span</value>
+      <webElementGuid>913f9678-3507-4931-9ffd-df42bdd0c723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pendapatan Lainnya' or . = 'Pendapatan Lainnya')]</value>
+      <webElementGuid>8689d170-76de-48f1-88cf-6fbdcb984a7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

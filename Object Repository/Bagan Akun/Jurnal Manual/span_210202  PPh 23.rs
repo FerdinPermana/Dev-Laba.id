@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_210202  PPh 23</name>
+   <tag></tag>
+   <elementGuidId>9e7809da-1793-4cf5-979d-1c92cce4130c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-51218-option-34']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-51218-option-34 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2c50ce3-4789-40fe-a036-29af832f21f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>210202      PPh 23</value>
+      <webElementGuid>a1f17c12-3b5e-471b-9103-e0ac599755e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-51218-option-34&quot;)/span[1]</value>
+      <webElementGuid>6fefba88-f2bd-4167-91a2-0199599e6bb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-51218-option-34']/span</value>
+      <webElementGuid>22a59f99-5fbb-42c6-8f22-ec6a12da208a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPh 21'])[2]/following::span[1]</value>
+      <webElementGuid>a51264cc-0d99-446a-b08f-91e3a9b3d33a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hutang Pajak'])[1]/following::span[3]</value>
+      <webElementGuid>ab4795e7-47f9-4cb3-8d88-93842f14b381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PPh 25'])[2]/preceding::span[2]</value>
+      <webElementGuid>14e1bdf3-d755-4a4f-9aa5-fde94927d3ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='210202']/parent::*</value>
+      <webElementGuid>57197da2-02d9-4a59-a7df-df10ed881588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[17]/ul/li[2]/span</value>
+      <webElementGuid>ab1b0253-0a96-4e49-ade6-3c57c824f11d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '210202      PPh 23' or . = '210202      PPh 23')]</value>
+      <webElementGuid>c2de4f7d-46fa-47d5-851b-b4be50b1dea3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

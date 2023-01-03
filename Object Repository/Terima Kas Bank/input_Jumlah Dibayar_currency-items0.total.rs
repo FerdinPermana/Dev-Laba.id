@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Jumlah Dibayar_currency-items0.total</name>
+   <tag></tag>
+   <elementGuidId>98280bb8-d193-4a16-8a72-9cb387fedbd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='currency-items[0].total']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;currency-items[0].total&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9fdbdc76-36b8-4f4c-b8b3-7d2d62846bbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>currency-items[0].total</value>
+      <webElementGuid>261ae62c-e198-4ffd-9e3a-7c364a17a78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>43d6423c-f179-431e-817c-2e207bc96f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>tulis disini</value>
+      <webElementGuid>b6f4c1b8-8801-4f4c-9102-03e57334fb55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a285b568-7632-4dc6-ba6a-1047cdbf2977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input_input__2w71p text-black MuiInputBase-input MuiInput-input</value>
+      <webElementGuid>ffb1ef0c-d271-4dce-aec5-3dfbf38ba8de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>57cfe459-e352-4d32-8950-66b70457ba33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>70fc6f15-2f79-4ae6-993a-9337b365ef2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root right-side MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-10&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content bg-white&quot;]/div[@class=&quot;MuiBox-root jss71 sales-content&quot;]/div[@class=&quot;Common_borderRadius__2i3GX bg-white&quot;]/div[2]/form[@class=&quot;TableForm_form_responsive_standard___tCle&quot;]/div[@class=&quot;TableForm_root__G0GCt 
+                TableForm_standard__3AebM
+                
+                
+                
+                /*untuk ada border dibawah footer. jelek cari cara lain nanti*/&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;undefined&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root  hidden MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth Mui-focused Mui-focused MuiInputBase-formControl MuiInput-formControl&quot;]/input[@class=&quot;Input_input__2w71p text-black MuiInputBase-input MuiInput-input&quot;]</value>
+      <webElementGuid>6325e943-6441-4360-9567-dfbf2da3ba96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='currency-items[0].total']</value>
+      <webElementGuid>d831cc78-f2fc-4f7b-bac7-f8bfeac71083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/form/div/table/tbody/tr/td[6]/div/div/input</value>
+      <webElementGuid>511b0d44-79ec-4ee7-865d-b415a16d1086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/input</value>
+      <webElementGuid>2fa5f009-c801-47e5-b3d6-3a1df68a8ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'currency-items[0].total' and @placeholder = 'tulis disini' and @type = 'text']</value>
+      <webElementGuid>c688de3a-26df-4177-9217-531339e94bc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

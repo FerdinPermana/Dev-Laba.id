@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Bagan Akun</name>
+   <tag></tag>
+   <elementGuidId>3a0dd9fa-7e2c-45bc-a1a7-d2c77f59d403</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7596fe10-1a2f-4fce-9ebb-d146782f558b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root  lists__item pointer  padding-right-4</value>
+      <webElementGuid>5c5f07ec-3234-4669-9b4a-656d8ec1a74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bagan Akun</value>
+      <webElementGuid>0c6b2757-9e8d-4862-8ab6-401c64aa00be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root  lists__item pointer  padding-right-4&quot;]</value>
+      <webElementGuid>f5db34d6-9f54-481e-ad3d-6ad1479f7937</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[10]</value>
+      <webElementGuid>6096552d-f1e0-40c5-bd7d-bb7b556e22fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laba &amp; Rugi'])[1]/preceding::li[3]</value>
+      <webElementGuid>cd32aaa1-b9dc-4820-82b1-6ec4cd063a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::li[3]</value>
+      <webElementGuid>89286693-ad5e-4a9e-8def-4057e8152955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]</value>
+      <webElementGuid>bc9a44f2-0ed1-4214-8a82-00615883f4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Bagan Akun' or . = 'Bagan Akun')]</value>
+      <webElementGuid>092fea80-2586-423c-b83b-e84236bffa0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

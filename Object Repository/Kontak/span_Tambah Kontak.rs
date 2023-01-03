@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tambah Kontak</name>
+   <tag></tag>
+   <elementGuidId>2c6a2cd3-71b3-4e99-92e6-51b0ed60675f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div/div[5]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4cd45237-f82e-497d-9781-f6b66d7ed39b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>f2f02cbf-e654-4ff2-ad52-2746db6a3bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Kontak</value>
+      <webElementGuid>555e3b32-aeb2-4bb0-8fea-c9791dd07477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root right-side MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-10&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiBox-root jss45 contact-content&quot;]/div[@class=&quot;MuiGrid-root list_body__2zojW margin-top-4 MuiGrid-container MuiGrid-direction-xs-column&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-item MuiGrid-justify-xs-space-between MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiGrid-root margin-left-auto MuiGrid-item MuiGrid-grid-xs-2&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained button-blue-w100&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>8c29b219-342e-41d0-8dcb-335be42ec87b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div/div[5]/button/span</value>
+      <webElementGuid>de26ba39-82e0-42e7-b752-11588b7597c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[2]/following::span[1]</value>
+      <webElementGuid>0897355c-0c1e-499c-8373-20d7b1a02127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[2]</value>
+      <webElementGuid>b06c011f-1073-4685-8c2a-de79f84a56f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Kontak'])[1]/preceding::span[5]</value>
+      <webElementGuid>b0215503-c882-42d8-b475-33795a37a268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Perusahaan'])[1]/preceding::span[5]</value>
+      <webElementGuid>cbaff30a-af10-46b1-a8f2-21fb9cdd69b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Kontak']/parent::*</value>
+      <webElementGuid>5f333ee0-c3bf-4d47-be6f-e19a627619fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>94d1333e-433a-484f-8b27-6b7a799c14f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tambah Kontak' or . = 'Tambah Kontak')]</value>
+      <webElementGuid>c0e7c446-b347-40ff-8ce2-247d7d783502</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

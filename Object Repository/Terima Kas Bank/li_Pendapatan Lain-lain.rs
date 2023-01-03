@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pendapatan Lain-lain</name>
+   <tag></tag>
+   <elementGuidId>c3f2aab5-ef44-4adf-937e-d8baa4f2b04c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[5]/div/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0eb3fa9f-1c76-4614-8e00-615466023d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root lists__item nested pointer MuiListItem-gutters</value>
+      <webElementGuid>d1f03d47-440c-4c7e-b93b-3bda7a775391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendapatan Lain-lain</value>
+      <webElementGuid>43c771be-ae10-43e1-aa2d-36bd6d49e97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiCollapse-container MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root lists__item nested pointer MuiListItem-gutters&quot;]</value>
+      <webElementGuid>99a0007e-74a5-4ba7-9b03-719a9a6046ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[5]/div/div/ul/li[3]</value>
+      <webElementGuid>63cdae58-3889-4d1c-afeb-cb716f199b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan Jasa'])[1]/following::li[1]</value>
+      <webElementGuid>454808e9-f7dd-4415-b045-7014af9ab171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan Penjualan Barang'])[1]/following::li[2]</value>
+      <webElementGuid>740f0f0f-74fc-432e-81e8-70f2e570c9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laba &amp; Rugi'])[1]/preceding::li[9]</value>
+      <webElementGuid>2b9c6e70-e44e-4f82-8246-1328ddb0e66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/ul/li[3]</value>
+      <webElementGuid>b4eba428-794b-40c6-8431-6271c14fa561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Pendapatan Lain-lain' or . = 'Pendapatan Lain-lain')]</value>
+      <webElementGuid>d27472ae-e192-4de1-a804-f62aca2fbcc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

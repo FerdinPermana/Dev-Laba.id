@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Terima KasBank</name>
+   <tag></tag>
+   <elementGuidId>17c9e4bb-fc24-4594-a5a5-d28dce8294fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>97402313-7bc2-48fd-9c4c-022b928dc1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root  lists__item pointer  padding-right-4</value>
+      <webElementGuid>6765bb72-660e-4fc6-9264-ab3a763c7a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terima Kas/Bank</value>
+      <webElementGuid>a8442a47-b713-450a-949f-c8cf7437c559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root  lists__item pointer  padding-right-4&quot;]</value>
+      <webElementGuid>02e8eda4-280e-4160-a9b3-4deb1a8a48d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[4]</value>
+      <webElementGuid>da6adade-2d64-4da1-96b8-0a971441306c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laba &amp; Rugi'])[1]/preceding::li[9]</value>
+      <webElementGuid>74393e6f-e360-492e-b080-ca9f92f0c951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::li[9]</value>
+      <webElementGuid>9aaf34fc-9091-4d83-8684-233eaa35b9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>9ff2e433-a38a-44b2-b6a8-b588c6e127af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Terima Kas/Bank' or . = 'Terima Kas/Bank')]</value>
+      <webElementGuid>b6e2f511-3a06-4d15-bc85-88e6b3f437ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_110201  Bank</name>
+   <tag></tag>
+   <elementGuidId>4ce3659e-328b-4ca0-a23f-8b0a1eafadba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-97751-option-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-97751-option-2 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17385ae3-ec06-4a69-9644-42d56e7fefce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>110201      Bank</value>
+      <webElementGuid>d3648184-eb9f-4970-aeff-49a196653b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-97751-option-2&quot;)/span[1]</value>
+      <webElementGuid>dff8104c-4d19-4345-9b43-86dca8beb79a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-97751-option-2']/span</value>
+      <webElementGuid>452c263e-3ff0-4a20-a1cf-c8d5ee6afb0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank'])[11]/following::span[1]</value>
+      <webElementGuid>44d9dd34-f24b-4dbe-8fe2-00a379ecb6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kas2'])[2]/following::span[1]</value>
+      <webElementGuid>600254fa-9cb4-4f4f-a5a9-2cb8387df810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BCA'])[2]/preceding::span[2]</value>
+      <webElementGuid>f112a59e-ff58-4db5-9688-3fd0a35850d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/span</value>
+      <webElementGuid>1886958a-3ac2-4a13-a738-f27255a034be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '110201      Bank' or . = '110201      Bank')]</value>
+      <webElementGuid>29945c69-659e-4686-8b58-2b4f4fe2834a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

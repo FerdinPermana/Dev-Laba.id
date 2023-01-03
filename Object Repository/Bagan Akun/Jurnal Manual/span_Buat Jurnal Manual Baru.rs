@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Buat Jurnal Manual Baru</name>
+   <tag></tag>
+   <elementGuidId>8e014ad8-4f59-4160-8599-9c142a6c4638</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiButton-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b04483fa-f858-4923-b7ee-f11a809a40eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>7041d627-51ea-4a75-9bed-1c5a0b573379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat Jurnal Manual Baru</value>
+      <webElementGuid>7ae521b1-844a-41d5-a25c-5ca79fefffea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root right-side MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-10&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiGrid-root List_body__3mlng margin-top-4 MuiGrid-container MuiGrid-direction-xs-column&quot;]/div[@class=&quot;MuiGrid-root margin-bottom-2 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiGrid-root d-flex flex-1 justify-end MuiGrid-item MuiGrid-grid-xs-6&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained button-blue-v2&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>6fae7cc4-4d93-4289-8df0-6d4efaa768c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/button/span</value>
+      <webElementGuid>edd3879a-1217-4ca7-a759-4d23effc7336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[2]/following::span[1]</value>
+      <webElementGuid>80f06db7-0ce0-4801-95fb-6c134564b586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::span[5]</value>
+      <webElementGuid>6a7efd87-fff0-4f3a-ba6c-786349c448b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Transaksi'])[1]/preceding::span[5]</value>
+      <webElementGuid>ed8470f4-77b2-435c-ab85-eea14050b1b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Transaksi'])[1]/preceding::span[5]</value>
+      <webElementGuid>3380e551-2436-4920-9798-7ff0218d9bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buat Jurnal Manual Baru']/parent::*</value>
+      <webElementGuid>7bea3b04-e02f-481c-af64-58d0c6ca8502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>212b57b7-f124-4bba-830f-aa623d367127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Buat Jurnal Manual Baru' or . = 'Buat Jurnal Manual Baru')]</value>
+      <webElementGuid>2b8335ec-f0ab-4f58-a90f-44b6c2029fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

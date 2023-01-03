@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kode Produk 011_currency-items0.qty</name>
+   <tag></tag>
+   <elementGuidId>15c00b3d-962f-4ef8-9f70-0d313fbac019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;currency-items[0].qty&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='currency-items[0].qty']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>67b322e6-a7e2-4cbf-9915-af0ae809e703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>currency-items[0].qty</value>
+      <webElementGuid>09482769-deb2-4bed-86c7-ff69c98d07ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c5c97d9b-3a4d-4448-9a6b-ba94b728271c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>tulis disini</value>
+      <webElementGuid>20c791e4-3588-4931-950f-9a062a2c8cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>280e42c0-1bf8-4dd9-bd86-762b6bbe88b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input_input__2w71p text-black MuiInputBase-input MuiInput-input</value>
+      <webElementGuid>7835a4e4-fc16-4df1-b176-713ec8803bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>34027f82-424b-45be-90c6-6b9359148be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>073c69f1-8b03-4895-b2f0-e05653ede56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>7ec5ed98-c0e8-4670-955f-3e82ca6204c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root right-side MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-10&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content bg-white&quot;]/div[@class=&quot;MuiBox-root jss49 sales-content&quot;]/div[@class=&quot;Common_borderStandardRadius__NE7sK bg-white&quot;]/div[@class=&quot;padding-bottom-4&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12&quot;]/form[@class=&quot;TableForm_form_responsive_standard___tCle&quot;]/div[@class=&quot;TableForm_root__G0GCt 
+                TableForm_standard__3AebM
+                
+                
+                
+                /*untuk ada border dibawah footer. jelek cari cara lain nanti*/&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;undefined&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root  hidden MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth Mui-focused Mui-focused MuiInputBase-formControl MuiInput-formControl&quot;]/input[@class=&quot;Input_input__2w71p text-black MuiInputBase-input MuiInput-input&quot;]</value>
+      <webElementGuid>b6ab7522-0f98-4e81-942f-5b88b9507602</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='currency-items[0].qty']</value>
+      <webElementGuid>9a7d3040-b128-4d98-9178-93e7acab50fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div[2]/table/tbody/tr/td[4]/div/div/input</value>
+      <webElementGuid>3b54f0be-8aa7-474b-892d-6c2d90e87814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div/input</value>
+      <webElementGuid>18afe959-5d75-4767-ab94-c79386b015de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'currency-items[0].qty' and @placeholder = 'tulis disini' and @type = 'text']</value>
+      <webElementGuid>b4ba1394-0098-4af3-a81e-13a363f787e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

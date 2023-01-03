@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TV Samsung011</name>
+   <tag></tag>
+   <elementGuidId>bd15da26-81cb-4917-9ea0-c6d8d472609b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.jss198.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-15153-option-3']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93f227e6-d6da-4a1b-811f-1df51e54219f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root jss198 w-100</value>
+      <webElementGuid>db545dc2-d44e-4443-89d5-44430932c944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TV Samsung011</value>
+      <webElementGuid>6e612b31-0dc4-4019-86a3-140343ff000f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-15153-option-3&quot;)/div[@class=&quot;MuiBox-root jss198 w-100&quot;]</value>
+      <webElementGuid>4147a9a9-fc51-4766-9d74-5a16b5cd877f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-15153-option-3']/div</value>
+      <webElementGuid>3a9037dc-b3de-478b-9056-7d6f91672ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HP'])[1]/following::div[1]</value>
+      <webElementGuid>95b9e8a5-1e69-4082-a71c-5a5c072876a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[1]/following::div[2]</value>
+      <webElementGuid>bdba5818-e1ca-4580-8d8b-3d4f6ed4ebb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[4]/div</value>
+      <webElementGuid>257373cb-fe9f-4754-a001-556a8c4ace11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TV Samsung011' or . = 'TV Samsung011')]</value>
+      <webElementGuid>f7ed2084-6d43-4ab0-9ea1-042be23d8410</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

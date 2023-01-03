@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Produk</name>
+   <tag></tag>
+   <elementGuidId>717fde36-73fb-448e-9597-7047a73ffda1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e1c5feaa-d155-43b0-877b-7043842fed13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root  lists__item pointer  padding-right-4</value>
+      <webElementGuid>1c229ccf-cda3-4b56-9b75-8352a5e19835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Produk</value>
+      <webElementGuid>4633b7fe-5dc1-4a76-a8a1-40d0560abde8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root  lists__item pointer  padding-right-4&quot;]</value>
+      <webElementGuid>7bbb151f-28ca-4a59-ba65-38fdbe42f6f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[6]</value>
+      <webElementGuid>63233521-d582-489a-9958-a5baa913bbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laba &amp; Rugi'])[1]/preceding::li[7]</value>
+      <webElementGuid>4547c8e8-6324-4d12-a5f8-3a5b8bd58ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::li[7]</value>
+      <webElementGuid>7cef8602-9e91-4ecf-ae33-35e3ab7abff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]</value>
+      <webElementGuid>62596ca1-51ee-425e-8e5e-7263ae0d25e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Produk' or . = 'Produk')]</value>
+      <webElementGuid>e76f575a-07df-4615-8f44-59ec20077381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

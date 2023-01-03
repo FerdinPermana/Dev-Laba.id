@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Buat Jurnal ManualNo. TransaksiTanggal _277bbb</name>
+   <tag></tag>
+   <elementGuidId>81044420-8cf1-4ac9-8bb8-bc4fde90cba8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a14efe9-de45-4775-b505-69ec89771635</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content </value>
+      <webElementGuid>b722377c-84af-498e-a82f-41f4518e4d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buat Jurnal ManualNo. Transaksi​Tanggal Transaksi​AkunDeskripsiDebitKreditTambah BarisCatatan​Lampirkan Berkas di Jurnal ManualKamu bisa upload maksimal 1 berkas, dengan ukuran maksimal 2MBUnggah BerkasAkumulasiTotal DebitRp0,00Total KreditRp0,00SelisihRp0,00BatalkanSimpan</value>
+      <webElementGuid>78e84dc7-374b-4cce-bc42-34276d8a3321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root right-side MuiGrid-item MuiGrid-grid-xs-9 MuiGrid-grid-md-10&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]</value>
+      <webElementGuid>c17cd562-c088-4140-80e0-65a6510e469c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div</value>
+      <webElementGuid>15dee737-4fc9-4e8c-a646-a48563a3b9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jurnal Manual'])[1]/following::div[5]</value>
+      <webElementGuid>2d7076a4-3798-45de-a681-6ca7d0ca36f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>552684c3-08e6-4565-81c1-3fc6d9836170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Buat Jurnal ManualNo. Transaksi​Tanggal Transaksi​AkunDeskripsiDebitKreditTambah BarisCatatan​Lampirkan Berkas di Jurnal ManualKamu bisa upload maksimal 1 berkas, dengan ukuran maksimal 2MBUnggah BerkasAkumulasiTotal DebitRp0,00Total KreditRp0,00SelisihRp0,00BatalkanSimpan' or . = 'Buat Jurnal ManualNo. Transaksi​Tanggal Transaksi​AkunDeskripsiDebitKreditTambah BarisCatatan​Lampirkan Berkas di Jurnal ManualKamu bisa upload maksimal 1 berkas, dengan ukuran maksimal 2MBUnggah BerkasAkumulasiTotal DebitRp0,00Total KreditRp0,00SelisihRp0,00BatalkanSimpan')]</value>
+      <webElementGuid>6a129101-bb45-4279-a2d2-bd60cba4e9a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

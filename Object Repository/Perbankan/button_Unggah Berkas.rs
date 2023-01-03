@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Unggah Berkas</name>
+   <tag></tag>
+   <elementGuidId>b87b5b9e-f150-4e62-b594-e0c1e0c12a3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.AttachmentForm_buttonUpload__1RBBL.text-black.text-bold.font-12.MuiButton-outlinedPrimary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89fddc74-d27a-4811-aa91-a6580803f486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-outlined AttachmentForm_buttonUpload__1RBBL text-black text-bold font-12 MuiButton-outlinedPrimary</value>
+      <webElementGuid>8885bc0b-35bf-4695-b385-a951b360daea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0de753bd-53f5-4a96-95bd-b9580691e846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dadfedf-38c1-418b-aef1-4f85b39e3cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fullwidth</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2261cf04-f77c-434a-81e5-3b2ca4bb8ef2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah Berkas</value>
+      <webElementGuid>4f51e449-b6f4-465c-9ac6-b0804bb76054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;modal-detail&quot;]/div[@class=&quot;modal-detail__body transfer&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root Modal_form-input__2Z5XG MuiGrid-item MuiGrid-grid-xs-12&quot;]/div[@class=&quot;MuiGrid-root margin-top-4 margin-bottom-4 MuiGrid-item MuiGrid-grid-xs-12&quot;]/form[1]/div[@class=&quot;MuiBox-root jss153&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined AttachmentForm_buttonUpload__1RBBL text-black text-bold font-12 MuiButton-outlinedPrimary&quot;]</value>
+      <webElementGuid>5b379ff5-b541-4740-834b-b3fd52440d97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>e903bede-0c5d-4ba0-bbb6-b5cccaad421b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You can upload a maximum of 5 files, 20 MB total'])[1]/following::button[1]</value>
+      <webElementGuid>3b3fc69b-7570-43fb-a60a-23a438749a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lampirkan Berkas'])[1]/following::button[1]</value>
+      <webElementGuid>8c139d11-d00d-41ad-9c78-176bf78ec03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan'])[1]/preceding::button[1]</value>
+      <webElementGuid>96dda8b2-b9ce-4e29-ab4e-9f0549c27f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>af917f75-04c7-4139-8a7c-77a480747d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Unggah Berkas' or . = 'Unggah Berkas')]</value>
+      <webElementGuid>eb977c14-f564-4779-b72d-227fa33d49fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Gudang Pusat_currency-items0.stock</name>
+   <tag></tag>
+   <elementGuidId>3dfeb3b1-35a6-41c3-8192-14d1799df122</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='currency-items[0].stock']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;currency-items[0].stock&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>07a1c084-e930-4993-961b-dbb8b1d3bf9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>currency-items[0].stock</value>
+      <webElementGuid>f167188a-b311-4a15-bfa1-899cc2581c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a0a9d61b-5ba5-4c41-92e2-a991c8173ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>tulis disini</value>
+      <webElementGuid>ea0f655f-933f-4348-b741-8b146479ade0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>208cfbba-b890-4e7e-bb0f-6b2a7e06434b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input_input__2w71p text-black MuiInputBase-input MuiInput-input</value>
+      <webElementGuid>0bf1cd32-436f-41cb-86e6-d38bd3a7ad10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9af18452-2103-41af-b6f6-ac0df24003fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>numeric</value>
+      <webElementGuid>08e9ea83-a58f-48f8-8c05-9de7e4426819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;modal-detail&quot;]/div[@class=&quot;modal-detail__body license edit-stock&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/form[@class=&quot;TableForm_form_responsive_standard___tCle&quot;]/div[@class=&quot;TableForm_root__G0GCt 
+                TableForm_standard__3AebM
+                
+                
+                
+                /*untuk ada border dibawah footer. jelek cari cara lain nanti*/&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;undefined&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root  hidden MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiInputBase-root MuiInput-root MuiInputBase-fullWidth MuiInput-fullWidth Mui-focused Mui-focused MuiInputBase-formControl MuiInput-formControl&quot;]/input[@class=&quot;Input_input__2w71p text-black MuiInputBase-input MuiInput-input&quot;]</value>
+      <webElementGuid>674d434f-7b0f-4f40-ab65-4f9181cf2ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='currency-items[0].stock']</value>
+      <webElementGuid>bc33797e-9f47-4eca-814d-cd2f91922f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div/input</value>
+      <webElementGuid>f67ef110-6a9d-4b2c-b889-ee5129965ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'currency-items[0].stock' and @placeholder = 'tulis disini' and @type = 'text']</value>
+      <webElementGuid>5f3698f1-8698-4b72-88c6-a14c15df0dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

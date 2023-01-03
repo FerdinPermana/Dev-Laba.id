@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Stok Barang</name>
+   <tag></tag>
+   <elementGuidId>a33b2102-7bb1-4163-80f2-3e176319be60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='simple-popover']/div[3]/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f54b34c1-3e10-4c1d-9a37-8df66cf111b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root pointer icon-blue text-blue MuiTypography-body1</value>
+      <webElementGuid>71e20253-84e1-4b15-bef3-30e8c1d5c365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Stok Barang</value>
+      <webElementGuid>b7d520ec-720c-48d3-94ac-286cd9ba7c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-popover&quot;)/div[@class=&quot;MuiPaper-root MuiPopover-paper Input_popoverTransparent__1o4hc MuiPaper-elevation8 MuiPaper-rounded&quot;]/div[@class=&quot;MuiBox-root jss75 bg-white padding-1 icon-black&quot;]/p[@class=&quot;MuiTypography-root pointer icon-blue text-blue MuiTypography-body1&quot;]</value>
+      <webElementGuid>5e002d22-6fe5-4075-b518-1b8d03a64424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='simple-popover']/div[3]/div/p[2]</value>
+      <webElementGuid>b2fa8acd-276b-4ffe-8780-4737c033a045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per Page:'])[1]/following::p[8]</value>
+      <webElementGuid>b0950e3a-8d37-4c49-bb65-9c40d323119a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[2]/following::p[8]</value>
+      <webElementGuid>69eac027-a10c-4189-af8d-9b18205bf2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Stok Barang']/parent::*</value>
+      <webElementGuid>40142a06-605a-4239-bc43-1876c26591f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p[2]</value>
+      <webElementGuid>8edf5550-74eb-4149-a31e-4d88612af21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Stok Barang' or . = ' Stok Barang')]</value>
+      <webElementGuid>9b50e958-0157-4aa9-8cd3-1d93cf1cdb2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_110204  Bank Jago</name>
+   <tag></tag>
+   <elementGuidId>3855ab6d-fa0c-488b-b41e-265f52a15316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='mui-16072-option-5']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mui-16072-option-5 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d2179635-598b-4d09-a368-87365040afbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>110204      Bank Jago</value>
+      <webElementGuid>804230cb-13c0-4754-a0cd-42a700d73018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mui-16072-option-5&quot;)/span[1]</value>
+      <webElementGuid>6ab307b6-d52e-4b4d-9113-6bfef0b57c48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='mui-16072-option-5']/span</value>
+      <webElementGuid>80404e3b-54f6-4636-9e6f-4c2311178c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank BRI'])[2]/following::span[1]</value>
+      <webElementGuid>ecd2eb01-b20b-405b-a609-c2b579c9b2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank'])[13]/following::span[3]</value>
+      <webElementGuid>5bc1a245-4786-4ef7-a094-383d6183555a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/span</value>
+      <webElementGuid>9cf64ebc-e660-4627-b17d-c0a4e2839e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '110204      Bank Jago' or . = '110204      Bank Jago')]</value>
+      <webElementGuid>dc0cae77-cb77-490a-be4e-0a3a816b2ac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

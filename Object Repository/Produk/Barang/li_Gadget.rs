@@ -7,20 +7,20 @@
    <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mui-1790-option-3</value>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='mui-93612']</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@id = 'mui-1790-option-3' and (text() = 'Gadget' or . = 'Gadget')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@placeholder='Kategori Produk'][1]</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>CSS</key>
+         <value>#mui-18701-option-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>b6b11482-3596-4971-8aa5-8c4448f8fdcc</webElementGuid>
+      <webElementGuid>ec2980ce-6c9f-45da-944d-6252d23f78e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>785c49c3-53d4-41f3-b99c-c986ecda01e1</webElementGuid>
+      <webElementGuid>76476669-b07a-4e24-a339-7c619818412b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>1e6cba81-9a04-4dd5-8c3f-867043d9adca</webElementGuid>
+      <webElementGuid>9199882d-d7cb-4928-abea-69b4ed318cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mui-1790-option-3</value>
-      <webElementGuid>f81550cd-9a6e-4d6c-a575-43106378c01b</webElementGuid>
+      <value>mui-18701-option-3</value>
+      <webElementGuid>f775f4c6-6871-46db-8fa3-00d181cc648f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>5df3ba04-05cc-457c-81c4-637a66eebf9e</webElementGuid>
+      <webElementGuid>e2dd9c49-8479-443b-ae4d-9913e2468049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fdf9e9c7-4749-4523-967f-4e3c459b77d6</webElementGuid>
+      <webElementGuid>6737a269-7269-49f2-9ca8-1ae76d2ca852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e3598f50-beed-4ebf-a4ca-31dbafac61c3</webElementGuid>
+      <webElementGuid>a6d5d632-d97c-4e60-8513-da5fe7d3a8b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAutocomplete-option</value>
-      <webElementGuid>1095f0f9-de7d-4e70-ad82-29ab6a2c9445</webElementGuid>
+      <webElementGuid>85fcf167-a883-4891-8bd9-dd7f43d412dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,31 +95,39 @@
       <name>text</name>
       <type>Main</type>
       <value>Gadget</value>
-      <webElementGuid>6d2e2f17-fa32-4df5-9e1f-55af6af57119</webElementGuid>
+      <webElementGuid>23071633-9415-4efe-9765-58b8f52379b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mui-1790-option-3&quot;)</value>
-      <webElementGuid>e3cf7dea-e891-41ad-bd54-f27577eaae56</webElementGuid>
+      <value>id(&quot;mui-18701-option-3&quot;)</value>
+      <webElementGuid>d3913a66-49b5-4574-a125-4e485c5b50c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-focus</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8fb31084-2132-4bdb-a4f5-178160891681</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='mui-1790-option-3']</value>
-      <webElementGuid>05b331c9-947a-403a-a6f8-5220f7585797</webElementGuid>
+      <value>//li[@id='mui-18701-option-3']</value>
+      <webElementGuid>3caffb6d-5f66-481d-b57f-bad90f582e74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='mui-1790-popup']/li[4]</value>
-      <webElementGuid>bede7e64-7ccf-48c0-9bd7-deaf97ed05c2</webElementGuid>
+      <value>//ul[@id='mui-18701-popup']/li[4]</value>
+      <webElementGuid>880b76d2-6a9e-4574-b311-b74056908527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronik'])[1]/following::li[1]</value>
-      <webElementGuid>0908e4f8-e8de-455b-aa84-9992136dffe7</webElementGuid>
+      <webElementGuid>dbcdb9d4-45f1-413e-ba15-c997eb846553</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +143,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Barang Umum'])[3]/following::li[2]</value>
-      <webElementGuid>1b52a5f4-2871-4a8e-bf0d-f8bc2e3a5981</webElementGuid>
+      <webElementGuid>0c9f6496-12f7-4ea3-8b45-2d2b1d52f4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +151,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/ul/li[4]</value>
-      <webElementGuid>0d6f1b14-0662-4670-93bb-ab6c2705a9a8</webElementGuid>
+      <webElementGuid>86edc9cf-7ae4-48bc-a891-0388a8beccca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'mui-18701-option-3' and (text() = 'Gadget' or . = 'Gadget')]</value>
+      <webElementGuid>e3b109e0-2fa9-49ce-b78f-eaea31a43bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='mui-1790-option-3']</value>
+      <webElementGuid>8e619f0e-2682-459d-b234-dca846471546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mui-1790-popup']/li[3]</value>
+      <webElementGuid>8a01b287-77ce-4f9a-9547-0c048f8b2a28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +183,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'mui-1790-option-3' and (text() = 'Gadget' or . = 'Gadget')]</value>
-      <webElementGuid>8001956c-d3f8-4ed9-b6a5-95dbb54c13d9</webElementGuid>
+      <webElementGuid>c0bc18d9-d17f-428f-bada-d8af98db4f34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -45,8 +45,6 @@ WebUI.setText(findTestObject('Object Repository/Terima Kas Bank/input_Jumlah Dib
 
 WebUI.click(findTestObject('Object Repository/Terima Kas Bank/svg_Jumlah Dibayar_MuiSvgIcon-root'))
 
-WebUI.setText(findTestObject('Object Repository/Terima Kas Bank/input_Jumlah Dibayar_items0.note'), 'Pendapatan1')
-
 WebUI.click(findTestObject('Object Repository/Terima Kas Bank/span_110201  Bank'))
 
 WebUI.setText(findTestObject('Object Repository/Terima Kas Bank/input_Jumlah Dibayar_currency-items0.total'), 'Rp.20.000')

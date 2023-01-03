@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Produk/Barang/input__code'), '10
 
 WebUI.click(findTestObject('Object Repository/Produk/Barang/svg__MuiSvgIcon-root'))
 
-WebUI.selectAllOption(findTestObject('Produk/Barang/div_Gadget'))
+WebUI.click(findTestObject('Produk/Barang/li_Gadget'))
 
 WebUI.setText(findTestObject('Object Repository/Produk/Barang/input__unit'), 'Unit')
 

@@ -10,6 +10,10 @@
          <value>//div[@id='__next']/div/div/div/ul/li[7]/div/div/ul/li</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Barang' or . = 'Barang')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>li.MuiListItem-root.lists__item.nested.pointer.MuiListItem-gutters</value>
       </entry>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>6f85dacb-862e-4b94-a1bf-741a54578033</webElementGuid>
+      <webElementGuid>9e7e544c-acd5-4252-83e5-4cc3d3e0f7cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiListItem-root lists__item nested pointer MuiListItem-gutters</value>
-      <webElementGuid>0c3c77e8-1627-43c6-b065-8dc777a8ad64</webElementGuid>
+      <webElementGuid>76b1ace8-b079-4361-9105-f25f231c4b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Barang</value>
-      <webElementGuid>d9aff21b-2654-4c58-bb22-1dd9fd3e444a</webElementGuid>
+      <webElementGuid>d9a77b27-0a7d-480c-bdee-19f192a7ecc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;MuiGrid-root auth MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root left-side MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-md-2&quot;]/div[@class=&quot;fixed-menu&quot;]/ul[@class=&quot;MuiList-root lists MuiList-padding&quot;]/li[@class=&quot;MuiCollapse-container MuiCollapse-entered&quot;]/div[@class=&quot;MuiCollapse-wrapper&quot;]/div[@class=&quot;MuiCollapse-wrapperInner&quot;]/ul[@class=&quot;MuiList-root MuiList-padding&quot;]/li[@class=&quot;MuiListItem-root lists__item nested pointer MuiListItem-gutters&quot;]</value>
-      <webElementGuid>3a623246-651b-49ea-a236-5e16bcc48e24</webElementGuid>
+      <webElementGuid>3d13c62c-7310-45ce-ad13-3db45f12e314</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/ul/li[7]/div/div/ul/li</value>
-      <webElementGuid>8509feb0-f7a5-4b8a-8319-a19dac81802a</webElementGuid>
+      <webElementGuid>e7f77678-ce1a-439d-8590-c1854dbff4ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jasa'])[1]/preceding::li[1]</value>
-      <webElementGuid>2b0b68f0-f260-4922-b850-5f09cdbe0adb</webElementGuid>
+      <webElementGuid>1d048044-c06a-49a8-930c-8d9ac63923a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/div/div/ul/li</value>
-      <webElementGuid>52e67fde-3c0d-4b82-a5ae-0724215a150f</webElementGuid>
+      <webElementGuid>8e23aefc-dab0-4cc1-af62-2fdd10a8b3e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +82,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'Barang' or . = 'Barang')]</value>
-      <webElementGuid>75d8a9ad-fd54-49a1-b508-279b02ec0d60</webElementGuid>
+      <webElementGuid>64c356a1-e15c-4ad2-82d5-3ab0fa70d990</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
